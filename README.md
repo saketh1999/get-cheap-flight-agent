@@ -3,7 +3,7 @@
 
 This project provides an AI-powered flight booking assistant that helps users find the cheapest flights between destinations using Kayak.com. The assistant uses Gemini AI to understand natural language queries and automates the process of searching for flights.
 
-## Demo : Link(https://drive.google.com/file/d/1rtn5mCHH7sBHaEeWiFTZgH0-dcWRHUXd/view?usp=sharing)
+## Demo : [Link](https://drive.google.com/file/d/1rtn5mCHH7sBHaEeWiFTZgH0-dcWRHUXd/view?usp=sharing)
 
 ## Disclaimer
 
