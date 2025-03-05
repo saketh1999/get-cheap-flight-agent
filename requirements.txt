@@ -1,0 +1,11 @@
+pandas
+openpyxl
+selenium
+webdriver-manager
+langchain-groq
+langchain
+pydantic
+tqdm
+psutil
+python-dotenv
+requests
