@@ -93,15 +93,6 @@ Follow the prompts to:
    - Gemini AI summarizes the findings in a user-friendly format
    - Results are presented in the terminal and saved to a JSON file
 
-## File Structure
-flight-booking-assistant/
-├── book.py # Core flight search functionality
-├── flight_book_chat.py # Chatbot interface
-├── requirements.txt # Required Python packages
-├── .env # Environment variables (API keys)
-└── README.md # Project documentation
-
-
 ## Requirements
 
 The following Python packages are required:
@@ -144,6 +135,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Google Gemini AI for natural language processing
 - Kayak.com for flight data
 - LangChain for AI framework components
+- Browser_use for Framework
 
 ---
 
